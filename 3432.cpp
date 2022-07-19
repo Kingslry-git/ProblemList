@@ -41,7 +41,7 @@ void dfs(int u)
             else
             {
                 s.insert(u);
-                dfs((u/2);
+                dfs(u/2);
             }
         }
     }
